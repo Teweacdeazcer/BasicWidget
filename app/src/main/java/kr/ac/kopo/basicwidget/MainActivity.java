@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
                 String univName = edit1.getText().toString();
                 String result = univName + "에 합격하신 것을 진심으로 축하드립니다.";
                  textResult.setText(result);
-                 textResult.setTextColor(Color.rgb(92,209,229));
+                 textResult.setTextColor(Color.rgb(128,65,217));
             }
         };
 }
